@@ -1,0 +1,50 @@
+--- Évaluation des fichiers du dossier 'embeddings' ---
+embeddings_1.txt -> Taux de réussite : 0.780
+embeddings_10.txt -> Taux de réussite : 0.760
+embeddings_2.txt -> Taux de réussite : 0.800
+embeddings_3.txt -> Taux de réussite : 0.740
+embeddings_4.txt -> Taux de réussite : 0.740
+embeddings_5.txt -> Taux de réussite : 0.780
+embeddings_6.txt -> Taux de réussite : 0.760
+embeddings_7.txt -> Taux de réussite : 0.770
+embeddings_8.txt -> Taux de réussite : 0.730
+embeddings_9.txt -> Taux de réussite : 0.720
+
+--- Résultats globaux ---
+Nombre de fichiers évalués : 10
+Taux de réussite moyen : 0.758
+Écart-type : 0.024
+
+
+
+
+--- Évaluation des fichiers du dossier 'embeddings_sub' ---
+embeddings_1.txt -> Taux de réussite : 0.770
+embeddings_10.txt -> Taux de réussite : 0.750
+embeddings_2.txt -> Taux de réussite : 0.730
+embeddings_3.txt -> Taux de réussite : 0.730
+embeddings_4.txt -> Taux de réussite : 0.760
+embeddings_5.txt -> Taux de réussite : 0.780
+embeddings_6.txt -> Taux de réussite : 0.740
+embeddings_7.txt -> Taux de réussite : 0.710
+embeddings_8.txt -> Taux de réussite : 0.770
+embeddings_9.txt -> Taux de réussite : 0.760
+
+--- Résultats globaux ---
+Nombre de fichiers évalués : 10
+Taux de réussite moyen : 0.750
+Écart-type : 0.021
+
+
+
+Chargement et construction du KD-Tree...
+capitales                 : 11/15 (73.3%)
+Habitants                 : 8/10 (80.0%)
+feminin masculin          : 10/15 (66.7%)
+singulier pluriel         : 5/10 (50.0%)
+arbre fruit               : 1/10 (10.0%)
+infinitif participe       : 2/10 (20.0%)
+conjugaison               : 0/10 (0.0%)
+adjectif adverbe          : 3/10 (30.0%)
+contraires                : 1/10 (10.0%)
+TOTAL GLOBAL              : 41/100 (41.0%)

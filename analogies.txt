@@ -1,0 +1,117 @@
+-capitales
+france paris espagne madrid
+france paris italie rome
+france paris allemagne berlin
+france paris angleterre londres
+france paris russie moscou
+france paris japon tokyo
+france paris chine pékin
+france paris portugal lisbonne
+france paris grèce athènes
+france paris belgique bruxelles
+france paris suisse berne
+france paris canada ottawa
+france paris pologne varsovie
+france paris somalie mogadiscio
+espagne madrid brésil brasilia
+
+-Habitants
+france français espagne espagnol
+france français italie italien
+france français allemagne allemand
+france français angleterre anglais
+france français russie russe
+france français japon japonais
+france français chine chinois
+france français portugal portugais
+france français maroc marocain
+france français algérie algérien
+
+-feminin masculin
+homme femme roi reine
+homme femme père mère
+homme femme fils fille
+homme femme frère sœur
+homme femme oncle tante
+homme femme époux épouse
+homme femme prince princesse
+homme femme acteur actrice
+homme femme chanteur chanteuse
+homme femme directeur directrice
+homme femme lion lionne
+homme femme tigre tigresse
+cochon truie chien chienne
+taureau vache coq poule
+cheval jument bouc chèvre
+
+-singulier pluriel
+chat chats chien chiens
+pomme pommes poire poires
+arbre arbres fleur fleurs
+maison maisons voiture voitures
+livre livres table tables
+cheval chevaux journal journaux
+animal animaux travail travaux
+œil yeux ciel cieux
+enfant enfants homme hommes
+jour jours nuit nuits
+
+-arbre fruit
+pommier pomme poirier poire
+cerisier cerise prunier prune
+pêcher pêche abricotier abricot
+oranger orange citronnier citron
+olivier olive figuier figue
+amandier amande noyer noix
+châtaignier châtaigne bananier banane
+palmier datte cocotier coco
+fraisier fraise framboisier framboise
+vigne raisin mûrier mûre
+
+-infinitif participe
+manger mangé parler parlé
+finir fini choisir choisi
+prendre pris mettre mis
+faire fait dire dit
+voir vu savoir su
+lire lu écrire écrit
+boire bu croire cru
+ouvrir ouvert offrir offert
+venir venu partir parti
+dormir dormi sortir sorti
+
+-conjugaison
+mangerai mangeront mangeai mangèrent
+parlerai parleront parlai parlèrent
+chanterai chanteront chantai chantèrent
+donnerai donneront donnai donnèrent
+aimerai aimeront aimai aimèrent
+finirai finiront finis finirent
+partirai partiront partis partirent
+prendrai prendront pris prirent
+verrai verront vis virent
+ferai feront fis firent
+
+-adjectif adverbe
+lent lentement rapide rapidement
+doux doucement fort fortement
+clair clairement simple simplement
+vrai vraiment faux faussement
+heureux heureusement triste tristement
+facile facilement difficile difficilement
+calme calmement brusque brusquement
+grand grandement profond profondément
+libre librement seul seulement
+rare rarement fréquent fréquemment
+
+-contraires
+grand petit chaud froid
+jour nuit blanc noir
+haut bas riche pauvre
+jeune vieux fort faible
+bon mauvais vrai faux
+ouvrir fermer entrer sortir
+monter descendre acheter vendre
+aimer détester gagner perdre
+début fin vie mort
+lumière obscurité guerre paix

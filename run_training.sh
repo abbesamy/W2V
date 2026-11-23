@@ -1,0 +1,9 @@
+python3 w2v.py -ef train_pair_2.txt -i Le_comte_de_Monte_Cristo.tok -o embeddings_sub/embeddings_2.txt -n 100 -L 2 -k 10 -eta 0.1 -e 5 -minc 5
+python3 w2v.py -ef train_pair_3.txt -i Le_comte_de_Monte_Cristo.tok -o embeddings_sub/embeddings_3.txt -n 100 -L 2 -k 10 -eta 0.1 -e 5 -minc 5
+python3 w2v.py -ef train_pair_4.txt -i Le_comte_de_Monte_Cristo.tok -o embeddings_sub/embeddings_4.txt -n 100 -L 2 -k 10 -eta 0.1 -e 5 -minc 5
+python3 w2v.py -ef train_pair_5.txt -i Le_comte_de_Monte_Cristo.tok -o embeddings_sub/embeddings_5.txt -n 100 -L 2 -k 10 -eta 0.1 -e 5 -minc 5
+python3 w2v.py -ef train_pair_6.txt -i Le_comte_de_Monte_Cristo.tok -o embeddings_sub/embeddings_6.txt -n 100 -L 2 -k 10 -eta 0.1 -e 5 -minc 5
+python3 w2v.py -ef train_pair_7.txt -i Le_comte_de_Monte_Cristo.tok -o embeddings_sub/embeddings_7.txt -n 100 -L 2 -k 10 -eta 0.1 -e 5 -minc 5
+python3 w2v.py -ef train_pair_8.txt -i Le_comte_de_Monte_Cristo.tok -o embeddings_sub/embeddings_8.txt -n 100 -L 2 -k 10 -eta 0.1 -e 5 -minc 5
+python3 w2v.py -ef train_pair_9.txt -i Le_comte_de_Monte_Cristo.tok -o embeddings_sub/embeddings_9.txt -n 100 -L 2 -k 10 -eta 0.1 -e 5 -minc 5
+python3 w2v.py -ef train_pair_10.txt -i Le_comte_de_Monte_Cristo.tok -o embeddings_sub/embeddings_10.txt -n 100 -L 2 -k 10 -eta 0.1 -e 5 -minc 5
